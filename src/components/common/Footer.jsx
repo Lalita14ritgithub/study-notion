@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Harsh Yadav</div>
+          <div className="text-center">Made By Lalita Gola</div>
         </div>
       </div>
     </div>
